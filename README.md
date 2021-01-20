@@ -1,2 +1,6 @@
 # -
-参考书籍：machine learning inaction
+参考书籍：machine learning in action
+这是一个用于学习机器学习的python代码实例！欢迎大家参考！
+里面是我在学习过程中，对《机器学习实战》中的一些机器学习算法源码的简单修改和应用；
+
+
